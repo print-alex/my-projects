@@ -1,0 +1,62 @@
+/* ./your-css-folder/styles.css */
+
+/* Set the background color for dark mode */
+.dark {
+    background-color: #1f2937;
+  }
+  
+  /* Set the background color for light mode */
+  .bg-gray-100 {
+    background-color: #f9fafb;
+  }
+  
+  /* Set the background color for dark mode */
+  .dark\\:bg-gray-900 {
+    background-color: #111827;
+  }
+  
+  /* Set the text color for dark mode */
+  .dark\\:text-gray-200 {
+    color: #f3f4f6;
+  }
+  
+  /* Set the text color for dark mode in the navbar */
+  .dark\\:text-gray-900 {
+    color: #1f2937;
+  }
+  
+  /* Style the navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  /* Style the logo in the navbar */
+  .navbar .logo {
+    font-size: 2rem;
+    background-color: #3b82f6;
+    color: #ffffff;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+  }
+  
+  /* Style the button to toggle dark mode */
+  .theme-toggle-btn {
+    font-size: 1.5rem;
+    background-color: #ffffff;
+    color: #1f2937;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  /* Style the search input */
+  .search-input {
+    border: 1px solid #e5e7eb;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+  }
+  

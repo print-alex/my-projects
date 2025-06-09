@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "./backend/util"
+    ],
+    "cSpell.words": [
+        "jsonify",
+        "pnconfig",
+        "pnconfiguration",
+        "pubnub"
+    ]
+}
